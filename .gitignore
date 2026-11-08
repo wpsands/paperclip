@@ -1,2 +1,3 @@
 output/pitch_tracker.csv
 output/proof/*.local.md
+output/*.local.md
