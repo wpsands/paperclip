@@ -92,5 +92,5 @@ for b in ["Raised under $50M", "Raised $50M to $100M", "Raised $100M+", "Funding
     out.append(f"| {b} | {len(js)} | {pct(bl,len(js))} | {pct(len(ai&js),len(js))} | {pct(len(pipe&js),len(js))} |")
 out.append("")
 
-open("output/patterns_data.md", "w").write("\n".join(out))
+open("output/patterns.md", "w").write("\n".join(out))
 print("\n".join(out))

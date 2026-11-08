@@ -1,0 +1,41 @@
+theme_id,theme,category,deliverable_type,example_requirement
+dg_T01,Own pipeline number and marketing-sourced pipeline targets,strategy,none,"Own a pipeline number measured by demos held, Sales-Accepted Opportunities and pipeline created"
+dg_T02,Build multi-channel demand gen strategy and plan,strategy,document,Build demand generation strategy and quarterly plan tied to pipeline and revenue targets
+dg_T03,Allocate demand gen budget and P&L by ROI,strategy,analysis,"Allocate budget, talent and experimentation capacity across paid, SEO, AI discovery, CRO and lifecycle"
+dg_T04,Plan and optimize paid and third-party media campaigns,execution,campaign,"Plan, launch and optimize paid social and search campaigns including targeting, budget, bidding, creative testing"
+dg_T05,Build and run tiered ABM programs for buying committees,execution,campaign,Build and run ABM programs targeting priority insurance accounts across the buying committee
+dg_T06,"Own SEO, AEO and content-led organic acquisition",content,system_build,"Build and scale owned acquisition assets: programmatic content, free tools, guides, glossaries, landing pages"
+dg_T07,Own website conversion and CRO testing,execution,process,"Own website conversion end-to-end: landing pages, demo flows, forms, CTAs and offers"
+dg_T08,Lead experimentation program and turn learnings into playbooks,execution,process,"Lead an experimentation program: hypotheses, success criteria, test prioritization, stop/scale decisions"
+dg_T09,"Build email nurture, lifecycle and re-engagement programs",execution,campaign,"Design and build email nurture programs by persona, stage and intent signal to booked demo"
+dg_T10,"Run events, webinars and field marketing tied to pipeline",execution,campaign,"Convert select conferences, executive dinners and community events into attributed pipeline"
+dg_T11,"Build full-funnel reporting, KPIs and conversion diagnostics",analytics,recurring_report,"Maintain trusted funnel definitions and diagnose data discrepancies with Data, RevOps, Product and Sales"
+dg_T12,"Own attribution, incrementality and measurement frameworks",analytics,analysis,Establish attribution guardrails and model maturity from lead to pipeline and revenue
+dg_T13,Build pipeline models and channel forecasts for Finance,analytics,analysis,Build bottoms-up channel forecast that holds up month to month
+dg_T14,Present marketing ROI and investment cases to executives,analytics,document,Own Growth Marketing ROI and create CFO-ready investment cases
+dg_T15,"Define ICP, segmentation and segment-specific messaging",strategy,document,"Own ICP, segmentation and Demand Gen messaging with segment-specific value propositions tested in market"
+dg_T16,"Partner with Sales on targeting, handoffs and pipeline",cross_functional,process,Coordinate with SDRs and Sales so nurtures and outbound work together
+dg_T17,"Partner with Product Marketing, Creative and Product on campaigns",cross_functional,campaign,Partner with Product Marketing to sharpen differentiation against legacy vendors and competitors
+dg_T18,Align cross-functional and executive stakeholders on growth goals,cross_functional,relationship,"Align senior stakeholders across Product, Web, Content, Design, Sales, RevOps, Finance into shipped work"
+dg_T19,"Define lead scoring, routing and handoff SLAs with RevOps",ops_systems,process,"Define and refine lead scoring, routing and handoff SLAs"
+dg_T20,"Own marketing ops, martech stack and data integrity",ops_systems,none,"Fluent in Salesforce, HubSpot or Marketo and attribution/intent tools such as 6sense or Demandbase"
+dg_T21,"Build demand gen operating system, rhythm and playbooks",ops_systems,system_build,"Build the Demand Gen operating system: pipeline modeling, reporting, attribution and funnel measurement"
+dg_T22,Apply AI and automation to demand gen workflows,ops_systems,system_build,"AI-first mindset using automation and agents to accelerate research, content, analysis and operations"
+dg_T23,Manage agencies and vendors against performance standards,ops_systems,relationship,"Evaluate and evolve external media agency and vendor relationships, holding partners accountable"
+dg_T24,"Hire, lead and develop the demand gen team",team_leadership,hiring_people,Manage and develop a lean team of employees and specialist contractors
+dg_T25,"Run customer advocacy, community, partner and expansion programs",cross_functional,campaign,"Turn customer advocacy into demand via references, customer stories, executive advocates and community programs"
+dg_T26,Own self-serve / PLG growth funnel and revenue,experience,none,Own Growth Marketing strategy and execution across the self-service PLG funnel to qualified pipeline and paying accounts
+dg_T27,"Own brand positioning, category narrative and PR",strategy,document,Own category narrative and brand positioning across the full North American market
+dg_T28,Design and run integrated campaigns end-to-end,execution,campaign,"Design and run integrated campaigns end-to-end, from audience and copy to nurture and post-campaign analysis"
+dg_T29,Set SDR strategy and support the SDR function,experience,none,"Own SDR Manager relationship and set SDR strategy, segments, talk tracks, SPIFFs, budget"
+dg_T30,8+ years B2B demand gen / growth experience,experience,none,"10+ years in B2B SaaS growth, demand gen, PLG or performance marketing for developer audiences"
+dg_T31,Track record owning and hitting a pipeline number,experience,none,"Owned a pipeline target and can show opportunities created, conversion gains and pipeline generated"
+dg_T32,"Enterprise, long-cycle buying committee experience",experience,none,"Enterprise B2B experience with large deals, long cycles and multi-stakeholder buying committees"
+dg_T33,"Startup / early-stage, lean-resource experience",experience,none,Startup or high-growth company experience doing a lot with limited resources
+dg_T34,"Developer, API or technical product audience experience",domain_knowledge,none,Deep technical understanding of developers and of AI agent audiences
+dg_T35,Vertical industry or regional market domain experience,domain_knowledge,none,Experience marketing to insurance or other regulated industries
+dg_T36,"Hands-on builder-operator, player/coach mentality",execution,none,Hands-on builder-operator mentality; ships work before delegating
+dg_T37,Managed large multi-million paid / marketing budgets,experience,none,Experience managing seven-figure annual paid budget and showing pipeline produced
+dg_T38,"Full-stack channel expertise across paid, organic, lifecycle",execution,none,"Track record owning integrated growth across paid, organic, lifecycle, CRO and product-led acquisition"
+dg_T39,Track record building demand engines from the ground up,experience,system_build,"Built inbound demand engines (SEO, content, automation, nurture, conversion) for US enterprise finance buyers"
+dg_T40,"Strong analytical, data-driven commercial mindset",analytics,none,"Strong business acumen with passion for pipeline math, unit economics, data-backed decisions"
