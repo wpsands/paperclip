@@ -1,0 +1,44 @@
+theme_id,theme,category,deliverable_type,example_requirement
+cs_T01,"Own NRR, GRR, retention and churn targets",strategy,none,"Own net revenue retention, churn reduction, adoption and expansion across strategic enterprise and DSO customers"
+cs_T02,"Drive upsell, cross-sell and expansion revenue",execution,relationship,Own ERP adoption and expansion across accounts
+cs_T03,Own end-to-end post-sale customer journey,execution,process,"Ensure execution across onboarding, adoption, renewal and expansion with proactive health management"
+cs_T04,Build onboarding and adoption programs for time-to-value,execution,process,Map digital twin workflows to customer processes and ensure widespread software adoption
+cs_T05,"Define CS strategy, segmentation and engagement models",strategy,document,Develop customer tiering model for account coverage
+cs_T06,"Build CS playbooks, processes and operating rhythms",ops_systems,process,"Create and improve SOPs, best practices, support documentation center and support processes"
+cs_T07,Build customer health scoring frameworks and monitoring,analytics,analysis,Monitor health scores and analyze data to identify at-risk accounts and growth opportunities
+cs_T08,Identify at-risk accounts and run churn mitigation plans,execution,process,Mitigate implementation risks and identify commercial expansion opportunities
+cs_T09,Own renewal and retention forecasting,analytics,recurring_report,"Maintain accurate forecasts and reporting on retention, renewals, customer health and expansion"
+cs_T10,Report CS metrics and dashboards to leadership,analytics,recurring_report,"Prepare retention forecasts, health score reports, and senior management presentations"
+cs_T11,"Run success plans, QBRs and executive business reviews",execution,process,Run success plans and lead recurring check-ins based on customer tiers you develop
+cs_T12,Serve as executive sponsor and escalation point,execution,relationship,Serve as ultimate escalation point resolving critical issues for high-tier accounts post-go-live
+cs_T13,Manage strategic accounts and executive customer relationships,execution,relationship,Own end-to-end account management outcomes and manage key customer relationships
+cs_T14,Partner with Sales on renewals and expansion,cross_functional,relationship,"Collaborate with Sales to identify risks, strengthen renewal strategies, uncover expansion"
+cs_T15,Champion voice of the customer into product roadmap,cross_functional,relationship,"Work with Product and Engineering to relay bugs, prioritize feature requests and influence roadmap"
+cs_T16,"Hire, build and lead a high-performing CS team",team_leadership,hiring_people,Build and lead a high-performing team of Customer Success Managers
+cs_T17,Coach CSMs and run performance management cadence,team_leadership,none,"Drive delivery excellence, professional development and resource allocation across accounts"
+cs_T18,Build AI-powered CS workflows and automation,ops_systems,system_build,"Experience using AI, automation and CS tools to improve efficiency and decision-making"
+cs_T19,"Use CRM and CS platforms (Salesforce, Gainsight)",ops_systems,none,Proficiency with CRM and CS software such as Salesforce or Gainsight
+cs_T20,Build and scale the CS function from scratch,ops_systems,system_build,"Build out the SMB customer success function driving retention, adoption, and expansion"
+cs_T21,"Run support operations, SLAs and escalation paths",analytics,recurring_report,Handle support for your own owned accounts
+cs_T22,Build customer advocacy and communication programs,content,campaign,"Develop product communication cadence keeping clients updated on product, cybersecurity trends, industry insights"
+cs_T23,Lead enterprise deployments and technical delivery workstreams,execution,process,Own end-to-end program delivery and account success across enterprise electric utility customers
+cs_T24,Use customer data to find risk and growth,analytics,analysis,Use customer and business data to proactively identify risk and growth opportunities
+cs_T25,Define ROI and value realization frameworks,analytics,document,Partner with utility leaders to define ROI frameworks
+cs_T26,Lead renewals discipline and negotiation strategy,strategy,process,"Lead renewals discipline, set renewal negotiation strategy, and own GRR personally"
+cs_T27,Co-own GTM pod plans and territories with Sales,cross_functional,relationship,Lead pod territory design with Sales Pod Leader and RevOps into CSM and RM territories
+cs_T28,Executive presence and cross-functional communication skills,cross_functional,relationship,Exceptional communication; builds consensus and manages relationships across complex utility organizations
+cs_T29,Lead teams through ambiguity and organizational change,team_leadership,none,"Ability to lead a team through ambiguity, change, and evolving models"
+cs_T30,Drive AI fluency and tool adoption across team,team_leadership,process,Drive AI fluency and tool adoption across the pod
+cs_T31,Years of Customer Success / account management experience,experience,none,"Consulting leader experience at a global management or technology firm, or equivalent technical CS/PS leadership"
+cs_T32,Years of CS people leadership experience,experience,none,"8+ years of Customer Success leadership in fast-paced, high-intensity settings"
+cs_T33,"Track record driving retention, NRR and expansion",experience,none,"Demonstrated success driving retention, renewals, adoption and expansion across a meaningful portfolio"
+cs_T34,Experience scaling CS orgs in high-growth B2B SaaS,experience,none,Has built a world-class CS org before
+cs_T35,Enterprise multi-stakeholder account experience,experience,none,"Track record leading multi-year, large-scale enterprise software deployments and digital transformations"
+cs_T36,Industry vertical domain expertise,domain_knowledge,none,"Experience in ERP, accounting, accounting audit, finance solutions or professional services"
+cs_T37,"Technical background (SQL, Python, APIs, engineering)",domain_knowledge,none,Strong technical aptitude including SQL and ability to quickly learn new software
+cs_T38,Strong analytical and data fluency skills,analytics,none,Expert Microsoft Excel and Google Sheets skills
+cs_T39,Develop product expertise and advise clients strategically,domain_knowledge,none,Develop deep DualEntry product expertise and translate accounting requirements into system configurations
+cs_T40,"High agency, judgment and bias to action",execution,none,Hardcore work ethic and high agency
+cs_T41,Degree or professional certifications,experience,none,"Bachelor's degree in Business, Computer Science, or related field"
+cs_T42,Deliver customer training and optimize workflows,execution,process,Deliver and systemize customer trainings
+cs_T43,Lead geographically distributed teams,team_leadership,none,Experience managing distributed teams across segments or regions
