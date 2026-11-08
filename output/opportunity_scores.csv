@@ -1,0 +1,69 @@
+theme_id,role_family,theme,jds,family_jds,share,agent,public,visible,time,frequency,total,companies
+pmm_T01,Product Marketing,Own product positioning and messaging framework,11,16,69%,5,5,5,4,4,23,CertifyOS; Clara; Ethena; Fireworks AI; GC AI; Keyfactor; Nooks; Overjet; Proof; ROLLER; Synthesia
+pmm_T03,Product Marketing,Translate technical capabilities into buyer value stories,11,16,69%,5,5,5,4,4,23,CertifyOS; Clara; Ethena; Fireworks AI; GC AI; Horizon3.ai; Keyfactor; Morning Consult; Nooks; Overjet; ROLLER
+dg_T05,Digital / Demand Gen,Build and run tiered ABM programs for buying committees,9,15,60%,5,5,5,3,4,22,Augury; FurtherAI; GC AI; Haus; NexHealth; OpenRouter; Paddle; Simetrik; commercetools
+pmm_T04,Product Marketing,"Build sales toolkit: decks, battlecards, one-pagers, objection guides",8,16,50%,5,5,5,4,3,22,CertifyOS; Ethena; GC AI; Horizon3.ai; Loopio; Overjet; Proof; ROLLER
+pmm_T02,Product Marketing,Define company and category narrative and point of view,8,16,50%,5,5,5,4,3,22,Ethena; Fireworks AI; GC AI; Horizon3.ai; Loopio; Morning Consult; Rillet; Synthesia
+pmm_T08,Product Marketing,Lead competitive intelligence and differentiation program,6,16,38%,5,5,5,4,2,21,CertifyOS; Fireworks AI; Loopio; Morning Consult; Proof; Synthesia
+pmm_T26,Product Marketing,Build market intelligence monitoring system and reports,7,16,44%,5,5,4,4,2,20,CertifyOS; Fireworks AI; Illumio; Keyfactor; Morning Consult; Proof; ROLLER
+dg_T15,Digital / Demand Gen,"Define ICP, segmentation and segment-specific messaging",5,15,33%,5,4,5,4,2,20,GC AI; Haus; Legora; NexHealth; Paddle
+dg_T06,Digital / Demand Gen,"Own SEO, AEO and content-led organic acquisition",4,15,27%,5,5,5,4,1,20,Cloudinary; OpenRouter; Simetrik; accessiBe
+dg_T07,Digital / Demand Gen,Own website conversion and CRO testing,4,15,27%,5,5,5,4,1,20,FurtherAI; OpenRouter; Simetrik; accessiBe
+revops_T02,RevOps,Build AI agents and automations for GTM workflows,5,9,56%,4,3,5,3,4,19,Broccoli AI; Deepgram; Fireworks AI; Kontakt.io; Morning Consult
+revops_T01,RevOps,Own AI roadmap for revenue and marketing operations,3,9,33%,4,4,5,4,2,19,Broccoli AI; Kontakt.io; Morning Consult
+dg_T22,Digital / Demand Gen,Apply AI and automation to demand gen workflows,9,15,60%,4,3,4,3,4,18,Broccoli AI; Cloudinary; GC AI; Haus; Klue; NexHealth; Paddle; Simetrik; commercetools
+dg_T02,Digital / Demand Gen,Build multi-channel demand gen strategy and plan,8,15,53%,4,4,4,3,3,18,Augury; Broccoli AI; FurtherAI; Legora; Paddle; Simetrik; accessiBe; commercetools
+cs_T11,Customer Success,"Run success plans, QBRs and executive business reviews",8,13,62%,4,3,3,4,4,18,ArmorCode; Culture Amp; DualEntry; GoLinks; OpenRouter; PermitFlow; Semperis; Veracode
+pmm_T09,Product Marketing,Run win/loss and customer research programs,7,16,44%,4,4,5,3,2,18,CertifyOS; Fireworks AI; GC AI; Nooks; Overjet; Proof; ROLLER
+dg_T04,Digital / Demand Gen,Plan and optimize paid and third-party media campaigns,6,15,40%,4,4,4,4,2,18,FurtherAI; GC AI; Haus; OpenRouter; Simetrik; accessiBe
+cs_T04,Customer Success,Build onboarding and adoption programs for time-to-value,6,13,46%,4,4,4,3,3,18,ArmorCode; GoLinks; Neara; OpenRouter; Semperis; Socket
+cs_T06,Customer Success,"Build CS playbooks, processes and operating rhythms",9,13,69%,4,3,3,3,4,17,DISQO; DualEntry; GoLinks; Neara; OpenRouter; Overjet; Semperis; Socket; Veracode
+pmm_T11,Product Marketing,"Own pricing, packaging, and monetization strategy",4,16,25%,4,5,4,3,1,17,CertifyOS; GC AI; Loopio; Proof
+revops_T08,RevOps,"Design territories, segmentation and account assignment",4,9,44%,4,4,4,3,2,17,Broccoli AI; Deepgram; Fireworks AI; Rillet
+dg_T09,Digital / Demand Gen,"Build email nurture, lifecycle and re-engagement programs",3,15,20%,4,4,4,4,1,17,FurtherAI; Simetrik; accessiBe
+dg_T11,Digital / Demand Gen,"Build full-funnel reporting, KPIs and conversion diagnostics",12,15,80%,3,1,4,3,5,16,Broccoli AI; Cloudinary; FurtherAI; GC AI; Haus; Klue; NexHealth; OpenRouter; Paddle; Simetrik; accessiBe; commercetools
+dg_T10,Digital / Demand Gen,"Run events, webinars and field marketing tied to pipeline",7,15,47%,3,4,3,3,3,16,Chainguard; GC AI; Klue; Legora; NexHealth; Simetrik; accessiBe
+cs_T08,Customer Success,Identify at-risk accounts and run churn mitigation plans,6,13,46%,3,3,4,3,3,16,Culture Amp; GoLinks; Neara; PermitFlow; Semperis; Veracode
+pmm_T22,Product Marketing,Build AI-powered workflows to automate PMM work,5,16,31%,4,3,4,3,2,16,CertifyOS; Clara; Illumio; Overjet; Synthesia
+cs_T18,Customer Success,Build AI-powered CS workflows and automation,4,13,31%,4,3,4,3,2,16,ArmorCode; DISQO; OpenRouter; Overjet
+dg_T28,Digital / Demand Gen,Design and run integrated campaigns end-to-end,3,15,20%,4,4,4,3,1,16,GC AI; Klue; Paddle
+cs_T07,Customer Success,Build customer health scoring frameworks and monitoring,3,13,23%,4,3,4,4,1,16,Culture Amp; Overjet; Semperis
+pmm_T06,Product Marketing,Lead product launches end-to-end with tiering and readiness,9,16,56%,3,3,3,2,4,15,CertifyOS; Clara; Fireworks AI; GC AI; Morning Consult; Nooks; Overjet; Proof; Synthesia
+pmm_T07,Product Marketing,Define and execute go-to-market strategy for products,6,16,38%,3,4,3,3,2,15,GC AI; Keyfactor; Loopio; Overjet; ROLLER; Rillet
+cs_T03,Customer Success,Own end-to-end post-sale customer journey,5,13,38%,4,3,3,3,2,15,ArmorCode; GoLinks; OpenRouter; Overjet; Socket
+pmm_T21,Product Marketing,Define and track PMM KPIs and impact metrics,8,16,50%,3,2,2,4,3,14,CertifyOS; Clara; GC AI; Horizon3.ai; Illumio; Keyfactor; Overjet; ROLLER
+pmm_T16,Product Marketing,Partner with Demand Gen and Comms on campaigns and content,7,16,44%,3,3,3,3,2,14,CertifyOS; Clara; GC AI; Horizon3.ai; Morning Consult; Nooks; Proof
+pmm_T05,Product Marketing,Run sales enablement and field readiness programs,6,16,38%,3,3,3,3,2,14,Clara; Fireworks AI; Keyfactor; Nooks; Overjet; Proof
+pmm_T40,Product Marketing,"Set PMM strategy, portfolio priorities, and plan",6,16,38%,3,3,3,3,2,14,Horizon3.ai; Illumio; Keyfactor; Morning Consult; Rillet; Synthesia
+cs_T05,Customer Success,"Define CS strategy, segmentation and engagement models",6,13,46%,3,2,3,3,3,14,DualEntry; GoLinks; OpenRouter; Overjet; Semperis; Veracode
+dg_T25,Digital / Demand Gen,"Run customer advocacy, community, partner and expansion programs",5,15,33%,3,3,3,3,2,14,GC AI; Haus; Klue; Legora; Simetrik
+revops_T12,RevOps,"Run GTM operating cadence, business reviews and QBRs",5,9,56%,3,2,2,3,4,14,Broccoli AI; Cloudinary; Fireworks AI; Kontakt.io; Morning Consult
+revops_T15,RevOps,Own executive and board reporting on revenue KPIs,5,9,56%,2,1,4,3,4,14,Broccoli AI; Cloudinary; Fireworks AI; GC AI; Rillet
+pmm_T18,Product Marketing,"Create proof content: case studies, white papers, customer stories",3,16,19%,3,3,4,3,1,14,CertifyOS; GC AI; Horizon3.ai
+dg_T16,Digital / Demand Gen,"Partner with Sales on targeting, handoffs and pipeline",8,15,53%,3,2,2,3,3,13,Chainguard; FurtherAI; GC AI; Haus; Klue; Paddle; accessiBe; commercetools
+dg_T21,Digital / Demand Gen,"Build demand gen operating system, rhythm and playbooks",5,15,33%,3,2,3,3,2,13,Cloudinary; GC AI; Haus; Legora; NexHealth
+pmm_T19,Product Marketing,"Build product demos, prototypes, and demo environments",4,16,25%,3,3,4,2,1,13,Ethena; Illumio; Nooks; ROLLER
+dg_T17,Digital / Demand Gen,"Partner with Product Marketing, Creative and Product on campaigns",4,15,27%,3,3,3,3,1,13,Haus; Klue; Legora; accessiBe
+dg_T08,Digital / Demand Gen,Lead experimentation program and turn learnings into playbooks,3,15,20%,3,3,3,3,1,13,Broccoli AI; Cloudinary; accessiBe
+revops_T07,RevOps,"Build capacity, quota and target-setting models",3,9,33%,3,2,3,3,2,13,Broccoli AI; Fireworks AI; Rillet
+dg_T03,Digital / Demand Gen,Allocate demand gen budget and P&L by ROI,7,15,47%,2,1,3,3,3,12,Augury; Cloudinary; FurtherAI; Haus; Legora; NexHealth; commercetools
+cs_T24,Customer Success,Use customer data to find risk and growth,6,13,46%,2,1,3,3,3,12,DISQO; OpenRouter; Overjet; Semperis; Socket; Veracode
+pmm_T20,Product Marketing,"Drive post-launch adoption, cross-sell, and expansion",5,16,31%,2,2,3,3,2,12,CertifyOS; Horizon3.ai; Keyfactor; ROLLER; Rillet
+pmm_T25,Product Marketing,Establish PMM operating rhythms and quality standards,4,16,25%,3,3,2,3,1,12,Clara; GC AI; Horizon3.ai; Nooks
+dg_T14,Digital / Demand Gen,Present marketing ROI and investment cases to executives,4,15,27%,3,2,3,3,1,12,Augury; Cloudinary; Klue; Legora
+dg_T19,Digital / Demand Gen,"Define lead scoring, routing and handoff SLAs with RevOps",4,15,27%,3,2,3,3,1,12,FurtherAI; NexHealth; Paddle; Simetrik
+dg_T13,Digital / Demand Gen,Build pipeline models and channel forecasts for Finance,4,15,27%,3,2,3,3,1,12,Augury; GC AI; NexHealth; OpenRouter
+dg_T12,Digital / Demand Gen,"Own attribution, incrementality and measurement frameworks",8,15,53%,2,1,3,2,3,11,Broccoli AI; Cloudinary; FurtherAI; GC AI; Legora; NexHealth; OpenRouter; accessiBe
+revops_T13,RevOps,Own CRM and GTM tech stack,7,9,78%,2,1,2,1,5,11,Broccoli AI; Cloudinary; Deepgram; GC AI; Kontakt.io; Morning Consult; Rillet
+cs_T10,Customer Success,Report CS metrics and dashboards to leadership,4,13,31%,2,1,3,3,2,11,ArmorCode; GoLinks; Overjet; Veracode
+revops_T28,RevOps,Turn revenue data into clear priorities and action,4,9,44%,2,1,3,3,2,11,Broccoli AI; Cloudinary; GC AI; Kontakt.io
+cs_T20,Customer Success,Build and scale the CS function from scratch,3,13,23%,3,2,3,2,1,11,GoLinks; Overjet; Socket
+revops_T10,RevOps,Own the forecast process and forecast reviews,4,9,44%,2,1,3,2,2,10,Cloudinary; Fireworks AI; Kontakt.io; Rillet
+cs_T09,Customer Success,Own renewal and retention forecasting,3,13,23%,2,1,3,3,1,10,ArmorCode; Culture Amp; Overjet
+revops_T09,RevOps,Design sales compensation and commissions,2,9,22%,2,2,2,3,1,10,Fireworks AI; Rillet
+revops_T16,RevOps,Analyze funnel conversion and rep productivity,2,9,22%,2,1,3,3,1,10,Fireworks AI; Rillet
+revops_T06,RevOps,Lead annual GTM planning and publish plan with Finance,4,9,44%,2,1,3,1,2,9,Broccoli AI; Fireworks AI; Morning Consult; Rillet
+revops_T27,RevOps,Drive cross-functional execution and program management,4,9,44%,2,1,2,2,2,9,Cloudinary; GC AI; Kontakt.io; Morning Consult
+cs_T21,Customer Success,"Run support operations, SLAs and escalation paths",3,13,23%,2,1,2,3,1,9,ArmorCode; DualEntry; Overjet
+revops_T14,RevOps,Build trusted GTM data foundation and source of truth,3,9,33%,2,1,2,1,2,8,Deepgram; Fireworks AI; Kontakt.io
+cs_T23,Customer Success,Lead enterprise deployments and technical delivery workstreams,3,13,23%,1,1,2,1,1,6,Neara; OpenRouter; Semperis
