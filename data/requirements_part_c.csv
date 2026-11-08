@@ -1,0 +1,245 @@
+jd_file,company,role_family,section,requirement,category,deliverable_type,tools_named,metric_named,seniority_signal
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Own the end-to-end customer journey from onboarding and adoption through renewal, expansion, and advocacy",strategy,process,,adoption;expansion,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Own and improve GRR and NRR, setting clear playbooks and KPIs",strategy,document,,GRR;NRR,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Partner with Sales on expansion and renewal strategy, driving upsell and cross-sell motions",cross_functional,relationship,,expansion,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Design and execute proactive engagement strategies to capture expansion opportunities early in lifecycle,execution,campaign,,expansion,both
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Establish C-level engagement frameworks so customers view ArmorCode as a strategic partner,strategy,process,,,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Own global CS strategy and operations ensuring responsiveness, resolution times, and customer satisfaction",strategy,process,,CSAT,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Define and track SLAs: first response, time-to-resolution, backlog management",analytics,recurring_report,,,both
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Implement scalable support models: tiered support, self-service, knowledge base, AI/automation",ops_systems,system_build,,,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Build escalation paths for collaboration between Support, Engineering, and Customer Success",ops_systems,process,,,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Analyze support tickets to identify systemic issues and feed insights into Product and CS,analytics,analysis,,,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Develop scalable onboarding and adoption programs that ensure time-to-value and deepen usage,execution,process,,adoption,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Develop product communication cadence keeping clients updated on product, cybersecurity trends, industry insights",content,campaign,,,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Drive new feature adoption and manage release planning with Engineering and Product,cross_functional,process,,adoption,both
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Define metrics and dashboards to monitor adoption health across accounts,analytics,recurring_report,,adoption,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Use predictive modeling and AI-driven alerts in proactive adoption campaigns to prevent churn,analytics,campaign,,adoption;churn,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Build formal advocacy programs: advisory boards, case studies, references, peer communities",execution,campaign,,,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Serve as voice of the customer to executive leadership, influencing product, sales, marketing strategy",cross_functional,relationship,,,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Partner with Product and Engineering to influence roadmap based on customer needs and adoption blockers,cross_functional,relationship,,adoption,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Work with Finance to forecast retention and expansion revenue,analytics,analysis,,retention;expansion,both
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,Lead a Customer Success team across US and India,team_leadership,hiring_people,,,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,responsibility,"Create repeatable processes for enterprise account management, QBRs, and executive engagement",ops_systems,process,,,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,"15+ years in enterprise Customer Success, with 10+ years in SaaS",experience,none,,,none
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,Proven CS leadership experience in technology or cybersecurity with large enterprise accounts,experience,none,,,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,Experience scaling CS organizations in $25M-$100M ARR companies,experience,none,,ARR,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,Proven success driving GRR and NRR in enterprise SaaS with ACVs above $100K,experience,none,,GRR;NRR,none
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,Experience implementing AI-driven tooling such as predictive analytics and automated workflows in CS,ops_systems,system_build,,,builder
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,Executive presence to engage C-level stakeholders at Fortune 1000 companies,domain_knowledge,relationship,,,none
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,Track record building high-performing teams and scalable processes,team_leadership,hiring_people,,,leader
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,Experience with CS platforms and operations tooling,ops_systems,none,Gainsight;Vitally;Salesforce,,none
+armorcode_director_customer_success.md,ArmorCode,Customer Success,qualification,"Bachelor's degree in Business, Computer Science, or related field",experience,none,,,none
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,"Own AMER field marketing strategy and execution across North America, LATAM, Public Sector to drive pipeline",strategy,campaign,,pipeline,both
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,Lead and develop a team of AMER field marketers while staying hands-on and coaching,team_leadership,hiring_people,,,both
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,Build a field center of excellence to enable business scale across the region,ops_systems,process,,,builder
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,"Partner with sales on strategy, targeting, and account approach for field initiatives",cross_functional,relationship,,,leader
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,Shape LATAM and Public Sector-specific go-to-market motions with sales,strategy,document,,,leader
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,Lead strategy for data-driven integrated field programs aligned to strategic market moments,strategy,campaign,,,leader
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,Oversee execution of events and field initiatives,execution,campaign,,,both
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,"Build relationships with agencies, vendors, and industry organizations to drive engagement and leads",cross_functional,relationship,,,both
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,Develop measurement plans with MOPS to evaluate and optimize field program performance,analytics,recurring_report,,,both
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,responsibility,"Ensure field marketing aligns with Chainguard's brand, mission, and values",execution,none,,,leader
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,qualification,12+ years of B2B field marketing experience,experience,none,,,none
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,nice_to_have,Cybersecurity field marketing background,domain_knowledge,none,,,none
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,qualification,5+ years managing a large team of regional field marketing managers and specialists,team_leadership,none,,,leader
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,nice_to_have,Experience with LATAM and/or Public Sector field marketing motions,domain_knowledge,none,,,none
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,qualification,Track record building marketing strategies and results tightly aligned with sales and leadership,experience,none,,,leader
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,qualification,"Knowledge of HubSpot, Salesforce, and Splash",ops_systems,none,HubSpot;Salesforce;Splash,,none
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,qualification,Strategic thinking with data-driven decision making,analytics,none,,,none
+chainguard_senior_director_amer_field_marketing.md,Chainguard,Digital / Demand Gen,qualification,Strong communicator,cross_functional,none,,,none
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,"Own pod renewal forecast, maintain integrity, and explain week-over-week movement",analytics,recurring_report,,forecast_accuracy,both
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Lead pod territory design with Sales Pod Leader and RevOps into CSM and RM territories,ops_systems,process,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,"Manage portfolio health by monitoring adoption, engagement, and risk signals",analytics,analysis,Vitally;Salesforce;Gong,adoption,both
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Proactively mitigate at-risk accounts for a no-surprises renewal motion,execution,process,,retention,both
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,"Lead renewals discipline, set renewal negotiation strategy, and own GRR personally",strategy,process,,GRR,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,"Coach CSMs and Renewals Managers through 1:1s, performance coaching, and career development",team_leadership,hiring_people,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Serve as executive sponsor on high-stakes accounts and senior escalation point,execution,relationship,,,builder
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Set adoption goals across the book and hold team accountable to account plans,strategy,document,,adoption,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Run structured performance management and contribute to hiring and onboarding decisions,team_leadership,hiring_people,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Co-own customer lifecycle with Sales Pod Leader ensuring seamless handoffs and coverage,cross_functional,relationship,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Model one GTM engine with shared accountability across Sales and CX,cross_functional,relationship,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Co-create pod GTM play roadmap and quarterly plan; recommend plays to leadership,strategy,document,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Optimize jointly for NRR and long-term value creation in pod decisions,strategy,none,,NRR,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Drive AI fluency and tool adoption across the pod,team_leadership,process,,adoption,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,"Co-present joint pod QBRs covering Sales, CX, and customer health performance",analytics,recurring_report,,,both
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,"Own resolution of complex cross-functional escalations, engaging Support, People Science, RevOps",cross_functional,relationship,,,both
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,responsibility,Build a pod culture of performance and translate strategy into focused execution,team_leadership,none,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,"Demonstrated CS leadership with direct accountability for GRR, renewals, retention and adoption goals",experience,none,,GRR;retention;adoption,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,Experience owning and delivering a renewal forecast including movement and risk,experience,recurring_report,,forecast_accuracy,none
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,"Deep understanding of CS methodology, LAER frameworks, and value-based engagement in B2B SaaS",domain_knowledge,none,,,none
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,Proven ability to coach CS practitioners into high-performing strategic advisors,team_leadership,none,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,"Commercial confidence in renewal negotiations, expansion conversations, and executive engagement",domain_knowledge,relationship,,expansion,none
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,"Experience working cross-functionally with Sales, People Science, Implementation, Support, RevOps",cross_functional,relationship,,,none
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,"Ability to lead a team through ambiguity, change, and evolving models",team_leadership,none,,,leader
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,Senior leadership presence and communication for high-stakes customer moments,cross_functional,none,,,none
+culture_amp_director_customer_success.md,Culture Amp,Customer Success,qualification,"Data fluency with Vitally, Salesforce, and Gong to diagnose risk and drive performance",analytics,none,Vitally;Salesforce;Gong,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Design and drive the annual GTM planning process for the COO organization,strategy,process,,,leader
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Publish the annual plan with GTM leadership and Finance; deliver territories and quotas on schedule,strategy,document,,quota,leader
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Lead capacity planning and target-setting into coverage, headcount, and productivity plans",strategy,analysis,,,both
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Lead overall target design across bookings, consumption, and pipegen",strategy,analysis,,pipeline,both
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Develop target-setting methodologies grounded in market opportunity and historical performance,analytics,document,,,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Build scenario models with Finance on capacity, ramp, productivity, hiring, and revenue tradeoffs",analytics,analysis,,pipeline,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Establish planning frameworks and analytics monitoring capacity, quota attainment, and productivity",analytics,recurring_report,,quota,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Design process to forecast GPU demand aligned with GPU management team,ops_systems,process,,,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Own market sizing, segmentation, and account tiering",analytics,analysis,,,both
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Design territories and account assignment annually and in-year,ops_systems,process,,,both
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Partner on route-to-market and channel/partner coverage strategy,cross_functional,relationship,,,leader
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Co-design compensation plan with Sales leadership, Finance, and compensation team",cross_functional,document,,,leader
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Run planning cadence: pipeline-coverage inspection, QBR inputs, in-year re-forecasting",ops_systems,recurring_report,,pipeline,both
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Diagnose attainment and productivity gaps across ramp, coverage, pipeline, consumption and recommend actions",analytics,analysis,,quota;pipeline,both
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Build end-to-end process and tooling to automate business plan modeling,ops_systems,system_build,,,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,"Partner with Data and GTM Engineering on reproducible, auditable source-of-truth data",ops_systems,system_build,,,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,responsibility,Extend the inherited in-house commissions stack as Fireworks scales,ops_systems,system_build,,,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,"9+ years in GTM planning, quota setting, or productivity RevOps at high-growth company",experience,none,,quota,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,Ownership of a plan presented to a board or CFO,experience,document,,,leader
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,"Comprehensive understanding of GTM design, sales planning, territory design, incentive compensation",domain_knowledge,none,,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,Significant experience interacting with C-suite and partnering with VP-level leaders,cross_functional,relationship,,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,Advanced analytical and financial modeling skills,analytics,analysis,,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,Hands-on experience planning a consumption-based or hybrid commit-plus-usage business,domain_knowledge,none,,,builder
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,SQL and BI fluency plus a planning or forecasting platform,ops_systems,none,SQL;Anaplan;Clari;Xactly,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,qualification,"BA/BS in engineering, accounting, finance, economics or quantitative field preferred",experience,none,,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,nice_to_have,"Experience at AI/ML infrastructure, developer tools, or API-first company",experience,none,,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,nice_to_have,"Familiarity with manager overrides, overlay roles, marketplace/channel nuances, self-serve to sales-assisted conversions",domain_knowledge,none,,conversion_rate,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,nice_to_have,Experience scaling a GTM organization through hypergrowth,experience,none,,,none
+fireworks_ai_head_of_gtm_strategy_and_planning.md,Fireworks AI,RevOps,nice_to_have,"Background in investment banking, finance, or management consulting",experience,none,,,none
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Set product marketing strategy, priorities, operating rhythm, and quality standards",strategy,process,,,leader
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Define team structure and hire, mentor, and develop product marketers",team_leadership,hiring_people,,,leader
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Align Product, Sales, CS, RevOps, Marketing around shared priorities and measures",cross_functional,relationship,,,leader
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Use customer, usage, market, competitive signals to influence roadmap decisions",cross_functional,analysis,,,both
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Define differentiated positioning across product lines, segments, and channels",strategy,document,,,both
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,Translate complex legal and AI capabilities into precise messaging for in-house lawyers,content,document,,,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Maintain messaging consistency across website, sales materials, product surfaces, customer education",content,document,,,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,Coordinate cross-functional launch teams and maintain launch plans with milestones and readiness criteria,execution,process,,,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Define and execute GTM strategy: segments, positioning, enablement, channel plans, launch communications",strategy,campaign,,,both
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Track post-launch adoption, revenue, feedback, funnel performance and lead reviews",analytics,recurring_report,,adoption,both
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Lead pricing, packaging, and monetization strategy across product tiers",strategy,analysis,,,leader
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Use customer research, usage data, and willingness-to-pay analysis to guide pricing",analytics,analysis,,,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Deliver talk tracks, decks, competitive briefs, objection guidance, and training",content,document,,,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,Partner with Sales leadership on deal strategy and positioning,cross_functional,relationship,,,both
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Measure whether enablement improves confidence, consistency, and win rates",analytics,analysis,,win_rate,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,Run structured customer research and win-loss programs,analytics,process,,win_rate,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Lead analyst engagement, competitive positioning, and external thought leadership",cross_functional,relationship,,,leader
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,Develop a credible point of view on Legal AI and in-house legal work,content,document,,,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Oversee case studies, ROI stories, comparisons, proof points across funnel",content,document,,ROI,leader
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Partner with Brand and Demand Gen on content supporting pipeline, adoption, expansion",content,campaign,,pipeline;adoption;expansion,both
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,responsibility,"Define PMM metrics tied to revenue, adoption, expansion, win rates and establish reporting baselines",analytics,recurring_report,,adoption;expansion;win_rate,builder
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,8+ years B2B software product marketing experience,experience,none,,,none
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,nice_to_have,Experience selling to lawyers,domain_knowledge,none,,,none
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,Experience leading product marketers or managing a PMM function,team_leadership,none,,,leader
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,Record of launching hit products,experience,none,,,none
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,"Strong background in pricing, packaging, and monetization strategy",domain_knowledge,none,,,none
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,Experience marketing technical or AI-driven products,domain_knowledge,none,,,none
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,"Excellent writing, editing, and executive communication skills",content,none,,,none
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,Strategic judgment paired with hands-on execution,experience,none,,,both
+gc_ai_director_of_product_marketing.md,GC AI,Product Marketing,qualification,High-growth startup experience,experience,none,,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,Set strategic direction unifying alliance-led and product-led growth for pipeline and time-to-value,strategy,document,,pipeline,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Architect and build product demos for alliance integrations, Trial/Marketplace, and launches",execution,system_build,,,builder
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,Set technical bar for team demo environments and assets,execution,process,,,both
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Own joint messaging, positioning, and value propositions for technology and cloud partners",content,document,,,both
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Ensure partner campaigns, co-sell enablement, and joint launches land with impact",execution,campaign,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Direct Web Trial and Marketplace strategy: journeys, landing pages, nurtures, trial assets",strategy,campaign,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Lead, coach, and grow a team of three product marketers",team_leadership,hiring_people,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Act as senior marketing voice to BD, Partner Sales, PM, and Office of the CTO",cross_functional,relationship,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Build integrated GTM plans generating pipeline via alliances and PLG, reallocating investment on results",strategy,campaign,,pipeline,both
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,Ensure every major launch includes partner and Trial/Marketplace motions,execution,process,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,responsibility,"Track partner ecosystem trends, PLG best practices, competitive landscape; translate into strategy",analytics,analysis,,,both
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Hands-on technical depth: personally built product demos and credible with technical buyers,experience,system_build,,,builder
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,"8+ years PMM in enterprise security, cloud, or infrastructure; 3+ years leading marketers",experience,none,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Proven success setting marketing goals and translating them into operational plans,strategy,document,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Track record building alliance/partner marketing programs or PLG/trial-led growth motions,experience,none,,,builder
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Ability to build and maintain relationships with key industry and technology partners,cross_functional,relationship,,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,"Strong storytelling, positioning, messaging translating complex integrations into customer value",content,none,,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,"Set and track KPIs for alliance and growth programs, adjusting strategy on data",analytics,recurring_report,,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,"Understand Zero Trust, microsegmentation, hybrid/multi-cloud well enough to build robust demos",domain_knowledge,none,,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Keep demo environments current with Product Management and Engineering,cross_functional,system_build,,,builder
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Use AI tools daily and set the same expectation for the team,ops_systems,none,,,both
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,"Hands-on fluency with generative AI for research, drafting, competitive analysis",ops_systems,none,Claude;ChatGPT;Microsoft Copilot,,builder
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Understand AI in marketing/sales systems to remove manual work,ops_systems,none,Marketo;Salesforce;Pendo;6sense;Highspot,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,"Evaluate and pilot new AI tools with build, buy, or adopt calls",ops_systems,analysis,,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,qualification,Understand responsible AI use and coach team to the same standard,team_leadership,none,,,leader
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,nice_to_have,Experience marketing to public or hybrid cloud environments,domain_knowledge,none,AWS;Azure;GCP,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,nice_to_have,"Familiarity with Zero Trust, segmentation, or breach containment strategies",domain_knowledge,none,,,none
+illumio_director_product_marketing_ecosystems_and_growth.md,Illumio,Product Marketing,nice_to_have,"MBA or advanced degree in Marketing, Business, or technical field",experience,none,,,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,Own narrative for evolution into multi-product AI-native portfolio with single coherent position,strategy,document,,,leader
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,"Set GTM strategy for major launches, aligning Product, Sales, CX, Marketing on one launch plan",strategy,campaign,,,leader
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,"Partner on pricing strategy: structure, packaging, value metrics to drive adoption and expansion",strategy,analysis,,adoption;expansion,both
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,Shape competitive positioning and win/loss analysis,analytics,analysis,,win_rate,both
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,"Create messaging, battlecards, and sales enablement that sales teams use",content,document,,,builder
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,"Partner with senior leadership on long-term strategy, representing voice of customer and market",cross_functional,relationship,,,leader
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,"Mentor and guide other product marketers, raising craft bar",team_leadership,none,,,leader
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,Advise product peers on roadmap prioritization with market and competitive context,cross_functional,relationship,,,both
+loopio_director_product_marketing.md,Loopio,Product Marketing,responsibility,"Represent Loopio externally via analyst briefings, customer conversations, and industry events",cross_functional,relationship,,,both
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,8+ years B2B SaaS product marketing owning pricing and GTM for a core product line,experience,none,,,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,Experience with AI-driven products and their effect on buyer behavior,domain_knowledge,none,,,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,Designed and launched pricing and packaging changes that measurably moved revenue or adoption,experience,analysis,,adoption,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,Strong executive presence to influence senior stakeholders across functions,cross_functional,none,,,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,Deep experience building competitive positioning and messaging used daily by sales,content,document,,,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,Strategic mindset with ability to get into details on launches or pricing,experience,none,,,both
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,"Excellent written and verbal communication, presenting to executives and customers",content,none,,,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,Experience mentoring or informally leading product marketers or GTM professionals,team_leadership,none,,,leader
+loopio_director_product_marketing.md,Loopio,Product Marketing,qualification,Proven success scaling a B2B SaaS company,experience,none,,,none
+loopio_director_product_marketing.md,Loopio,Product Marketing,nice_to_have,"Experience in proposal, RFP, or sales enablement space",domain_knowledge,none,,,none
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Build and lead Product Marketing as first PMM head, moving single product to platform",team_leadership,hiring_people,,,builder
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Define platform and solution positioning across inbound, outbound, deal management, expansion",strategy,document,,,both
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Develop messaging translating technical capabilities into value for sales, RevOps, executive buyers",content,document,,,builder
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Partner with Product leadership to shape roadmap, pricing, and packaging",cross_functional,relationship,,,leader
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Own launch process end to end, from tiering and planning to post-launch adoption",execution,process,,adoption,both
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Partner with Comms, Growth Marketing, and Field Marketing to bring launches to market",cross_functional,campaign,,,both
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Make demos, prototypes, and visual product stories the team's default explanation",content,process,,,builder
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Build flagship demos and narratives for launches, keynotes, analyst briefings",content,document,,,builder
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Own enablement narrative, content, and product enablement with GTM Enablement director",content,document,,,both
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Ensure every rep can position, demo, and differentiate Nooks with confidence",execution,process,,,both
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Run win-loss, competitive intelligence, and analyst relations programs",analytics,process,,win_rate,both
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,Hire and develop product marketers aligned to product areas,team_leadership,hiring_people,,,leader
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,responsibility,"Establish operating rhythms, launch processes, and quality bar to scale function",ops_systems,process,,,builder
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,10+ years B2B tech product marketing with 3+ years leading a team,experience,none,,,leader
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,Track record positioning complex technical products and multi-product platforms,experience,none,,,none
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,"Technical depth on AI, data, or developer products; differentiation shown through demos",domain_knowledge,none,,,builder
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,Experience leading major launches and partnering with Sales on enablement,experience,none,,,none
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,Exceptional written and verbal communication making complex ideas simple,content,none,,,none
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,Uses data and customer insight to set priorities and measure impact,analytics,analysis,,,none
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,"Experience in sales tech, revenue intelligence, or AI products through hypergrowth or upmarket move",domain_knowledge,none,,,none
+nooks_head_of_product_marketing.md,Nooks,Product Marketing,qualification,AI-first working style using AI to move faster,ops_systems,none,,,none
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,Develop expert understanding of ICP and personas in private practices and DSOs,domain_knowledge,analysis,,,builder
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,"Guide Sales, CS, Product with customer insight to improve prospecting, velocity, retention",cross_functional,relationship,,velocity;retention,both
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,Define and own end-to-end GTM strategy for Overjet's products,strategy,document,,,leader
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,Create differentiated positioning and messaging grounded in customer needs and market trends,content,document,,,both
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,Plan and execute product and feature launches delivering measurable adoption and revenue,execution,campaign,,adoption,both
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,"Build AI-powered workflows for research, positioning, launches, and enablement",ops_systems,system_build,,,builder
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,"Partner with Sales, CS, Demand Gen to give GTM teams resources and enablement",cross_functional,relationship,,,both
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,"Develop pitch decks, one-pagers, battlecards, competitive narratives, onboarding resources",content,document,,,builder
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,"Conduct customer research, market analysis, competitive intelligence to influence roadmap",analytics,analysis,,,builder
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,responsibility,"Monitor adoption, feedback, and results to iterate messaging and GTM strategy",analytics,recurring_report,,adoption,both
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,qualification,Product marketing leader experience in high-growth B2B SaaS,experience,none,,,leader
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,qualification,Proven ability to build a best-in-class B2B product marketing program,experience,process,,,builder
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,qualification,Track record leading major launches and positioning that drives business outcomes,experience,none,,,none
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,qualification,Translate technical or AI-powered products into compelling narratives,content,none,,,none
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,qualification,Excellent written and verbal communication with executive presence,content,none,,,none
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,qualification,"Thrives in fast-paced cross-functional environments with Product, GTM, CEO/Founder teams",cross_functional,none,,,none
+overjet_head_of_product_marketing.md,Overjet,Product Marketing,qualification,Ability to differentiate valuable signal from noise,analytics,none,,,none
+rillet_director_product_marketing.md,Rillet,Product Marketing,responsibility,"Own and build PMM function: strategy, priorities, roadmap for positioning and launches",strategy,document,,,both
+rillet_director_product_marketing.md,Rillet,Product Marketing,responsibility,Build the product marketing team as the business grows,team_leadership,hiring_people,,,builder
+rillet_director_product_marketing.md,Rillet,Product Marketing,responsibility,"Define positioning, messaging, and category narrative with clear ERP market differentiation",content,document,,,both
+rillet_director_product_marketing.md,Rillet,Product Marketing,responsibility,"Partner with CEO, Sales, executives to shape company messaging and market positioning",cross_functional,relationship,,,leader
+rillet_director_product_marketing.md,Rillet,Product Marketing,responsibility,"Lead end-to-end GTM for launches, new capabilities, and market expansion",strategy,campaign,,,leader
+rillet_director_product_marketing.md,Rillet,Product Marketing,responsibility,"Drive adoption, pipeline, win rates, revenue via insights, enablement, and product narratives",execution,campaign,,adoption;pipeline;win_rate,both
+rillet_director_product_marketing.md,Rillet,Product Marketing,responsibility,Turn strategy into execution without relying on a large team,execution,none,,,builder
+rillet_director_product_marketing.md,Rillet,Product Marketing,qualification,"12+ years marketing in B2B AI or SaaS, leading PMM at high-growth companies",experience,none,,,leader
+rillet_director_product_marketing.md,Rillet,Product Marketing,qualification,8+ years of people management building high-performing teams,team_leadership,none,,,leader
+rillet_director_product_marketing.md,Rillet,Product Marketing,qualification,Builder experience scaling PMM functions and GTM strategies from scratch,experience,none,,,builder
+rillet_director_product_marketing.md,Rillet,Product Marketing,qualification,"Strong storytelling, positioning, and executive presence",content,none,,,none
+rillet_director_product_marketing.md,Rillet,Product Marketing,qualification,AI-native mindset using tools like Claude to automate workflows,ops_systems,none,Claude,,builder
+rillet_director_product_marketing.md,Rillet,Product Marketing,qualification,"Expertise in product launches, competitive positioning, and sales enablement",experience,none,,,both
+rillet_director_product_marketing.md,Rillet,Product Marketing,nice_to_have,"AI, fintech, or ERP experience",domain_knowledge,none,,,none
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,responsibility,"Lead PMM function positioning, messaging, launching full product line incl. interactive avatars and API",strategy,document,,,leader
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,responsibility,Set the platform narrative and keep it sharp as product evolves,content,document,,,both
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,responsibility,Run launches across the product portfolio,execution,campaign,,,both
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,responsibility,Own competitive strategy and buyer research,analytics,analysis,,,both
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,responsibility,"Set messaging that sales, web, and campaigns run on",content,document,,,both
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,responsibility,"Lead a team of five PMMs, hire into it, raise the bar",team_leadership,hiring_people,,,leader
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,qualification,"Builds and deploys agents automating PMM work like competitive tracking, research, launch ops",ops_systems,system_build,,,builder
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,qualification,Led a product portfolio and built or grew the team behind it,experience,none,,,leader
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,qualification,Sets company-level positioning and narrative everything ladders up to,strategy,document,,,leader
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,qualification,Excellent written and spoken communicator,content,none,,,none
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,qualification,Experience managing senior stakeholders and complex program management,cross_functional,process,,,none
+synthesia_head_of_product_marketing.md,Synthesia,Product Marketing,qualification,Partners closely with sales enablement and supports complex enterprise GTM motions,cross_functional,relationship,,,none

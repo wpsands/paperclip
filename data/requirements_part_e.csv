@@ -1,0 +1,253 @@
+jd_file,company,role_family,section,requirement,category,deliverable_type,tools_named,metric_named,seniority_signal
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Own pipeline creation for the sales team,strategy,system_build,,pipeline,leader
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Build and scale systems that generate high-quality pipeline for sales,ops_systems,system_build,,pipeline,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,"Continuously test channels, messaging, and funnel conversion",execution,analysis,,conversion_rate,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Test outbound motions and paid campaigns,execution,campaign,,,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Test events and partnerships as growth channels,execution,campaign,,,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Test AI-powered automations and workflows for growth,ops_systems,system_build,,,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,"Work closely with founders, sales team, and RevOps to build the growth engine",cross_functional,relationship,,,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,"Own pipeline generation across SMB, mid-market, and enterprise segments",strategy,campaign,,pipeline,leader
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Own demand gen strategy and execution across inbound and outbound,strategy,campaign,,,both
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Own funnel optimization and conversion improvement,analytics,analysis,,conversion_rate,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,"Run experimentation across channels, messaging, and GTM motions",execution,analysis,,,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,"Own attribution, CAC, pipeline reporting, and performance metrics",analytics,recurring_report,,CAC;pipeline,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Build AI-driven growth systems and automations,ops_systems,system_build,,,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,responsibility,Hire and scale the demand gen function over time,team_leadership,hiring_people,,,leader
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,qualification,Strong analytical and growth mindset,analytics,none,,,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,qualification,8+ years of proven track record driving B2B pipeline,experience,none,,pipeline,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,qualification,Highly experiments-driven,analytics,none,,,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,qualification,AI-native and excited about using AI to scale execution,ops_systems,none,,,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,qualification,High-agency and fast-moving,execution,none,,,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,qualification,Comfortable operating strategically and hands-on,strategy,none,,,both
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,qualification,Focus on revenue-driving pipeline rather than MQL volume or agency coordination,execution,none,,MQL,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,nice_to_have,Experience at a high-growth Series B/C startup,experience,none,,,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,nice_to_have,Vertical SaaS or SMB software experience,domain_knowledge,none,,,none
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,nice_to_have,Experience building both inbound and outbound pipeline systems,experience,none,,pipeline,builder
+broccoli_ai_head_of_growth.md,Broccoli AI,Digital / Demand Gen,nice_to_have,Founder/operator mentality,experience,none,,,builder
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Own and evolve the New Business operating model, cadence, standards, and decision rights",ops_systems,process,,,leader
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,Lead forecast readiness and opportunity inspection for leaders,analytics,recurring_report,,forecast_accuracy,leader
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Give leaders accurate view of performance, risk, stage progression, and opportunity health",analytics,recurring_report,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Improve pipeline hygiene, opportunity completeness, and Salesforce data quality",ops_systems,process,Salesforce,pipeline,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Combine AE, SE, and system signals to surface deal risk and forecast changes early",analytics,analysis,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Build decision-driving reporting, consolidating redundant dashboards into clear views",analytics,recurring_report,,,builder
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Lead cross-functional initiatives on CRM, CPQ, RFPs, pricing, and GTM systems through adoption",ops_systems,system_build,CPQ,adoption,leader
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Translate field needs into requirements, acceptance criteria, and success measures",ops_systems,document,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Coordinate owners, make tradeoffs visible, remove blockers, and escalate decisions",cross_functional,process,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Partner with Marketing, Enablement, and Channels & Alliances to align handoffs and workflows",cross_functional,process,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,Convert field feedback into a prioritized improvement backlog,ops_systems,document,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,Create durable playbooks and inspection mechanisms,ops_systems,document,,,builder
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,responsibility,"Measure adoption, data quality, forecast accuracy, and process performance to improve operating model",analytics,recurring_report,,adoption;forecast_accuracy,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,Bachelor's degree or equivalent practical experience,experience,none,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,"10+ years in Business Operations, Sales Strategy, or related roles in B2B SaaS/tech",experience,none,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,Experience owning or shaping operating model for New Business or enterprise sales motions,experience,none,,,leader
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,"Strong experience with forecasting, pipeline management, and opportunity inspection",experience,none,,pipeline,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,Salesforce experience and familiarity with CPQ and RFP tools,ops_systems,none,Salesforce;CPQ,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,Proven ability to lead complex cross-functional initiatives through delivery and measurable outcomes,cross_functional,none,,,leader
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,"Strong analytical and data-storytelling skills, separating decision support from reporting noise",analytics,none,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,"Exceptional stakeholder management and communication, creating alignment without direct authority",cross_functional,none,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,qualification,Comfort moving between executive-level framing and detailed execution,execution,none,,,both
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,nice_to_have,"Experience supporting global, technical, or developer-focused sales organizations",experience,none,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,nice_to_have,Experience simplifying and increasing efficiency of GTM processes,experience,none,,,none
+cloudinary_director_new_business_operations.md,Cloudinary,RevOps,nice_to_have,"Familiarity with APIs, cloud technologies, digital asset management, or media workflows",domain_knowledge,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Manage portfolio of largest, most complex multi-stakeholder, revenue-critical accounts",execution,relationship,,,builder
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,Build and sustain relationships with VP/C-suite champions,execution,relationship,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Own the account strategy, not just the renewal",strategy,document,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Act as point person for strategically important, complex, or at-risk accounts",execution,relationship,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Judge when to escalate, hold the line, or bring in leadership",execution,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Represent customer perspective internally in product, sales, and leadership conversations",cross_functional,relationship,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,Partner with Product on roadmap input from accounts,cross_functional,relationship,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,Partner with Sales on expansion strategy,cross_functional,relationship,,expansion,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,Advise leadership on how the book of business is trending,analytics,analysis,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Build custom AI skills, agents, and artifacts to drive velocity and client value",ops_systems,system_build,,velocity,builder
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,Set the example for AI-native account management across the team,team_leadership,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Coach other CSMs on account strategy, difficult conversations, commercial acumen, and AI use",team_leadership,process,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Develop expert fluency in DISQO platform, research methodologies, and client industries",domain_knowledge,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,Act as strategic advisor to clients on their insights strategy,domain_knowledge,relationship,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,responsibility,"Identify CS process gaps and build fixes: playbooks, templates, AI workflows, escalation paths",ops_systems,process,,,builder
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,"10+ years in customer success, account management, or client-facing strategic role",experience,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,"Ideally background in market research, insights, MarTech, or SaaS",domain_knowledge,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,Track record owning complex accounts including renewal and expansion of six/seven-figure relationships,experience,none,,expansion,none
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,Comfort operating with VP/C-suite stakeholders amid ambiguity and organizational change,experience,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,"Strong commercial acumen connecting account health to revenue, retention, and growth",analytics,none,,retention,none
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,"Hands-on AI fluency: built custom skills, agents, or artifacts that changed team workflows",ops_systems,none,,,builder
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,Pattern of raising the level of people and process without formal title,team_leadership,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,Deep curiosity about the client's business,domain_knowledge,none,,,none
+disqo_customer_success_director.md,DISQO,Customer Success,qualification,"Judgment on when to solve, loop in a specialist, or escalate",execution,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,"Own Fireworks positioning, category narrative, and corporate narrative",strategy,document,,,leader
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Define the ICP,strategy,document,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Own messaging architecture that every other team pulls from,content,document,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,"Create segment-specific narratives for AI-Native, Digital-Native, and Enterprise accounts",content,document,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Own end-to-end GTM for major product launches with Product and Engineering,execution,campaign,,,leader
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,"Run launch tiering, narrative, sales enablement, press/analyst strategy, and customer evidence",execution,campaign,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,"Own competitive program: battlecards, win/loss analysis, and top-deal support",content,document,,win_rate,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Build systematic competitive feedback loop into Product,cross_functional,process,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Own sales enablement curriculum for new and existing reps,content,document,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,"Own structured listening function across customers, prospects, analysts, and market",analytics,process,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Run win/loss interviews and voice-of-customer programs,analytics,analysis,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Own analyst relations,cross_functional,relationship,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,"Feed insights into messaging, product strategy, and leadership team",cross_functional,analysis,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Drive win rates against priority competitors up quarter over quarter,execution,none,,win_rate,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Be named by sales leadership as top-three driver of pipeline conversion,execution,none,,pipeline;conversion_rate,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Reduce time from product GA to first reference customer,execution,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,responsibility,Hire ICs and build out the inherited PMM team,team_leadership,hiring_people,,,leader
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,10+ years in product marketing with 5+ years in senior or leadership role,experience,none,,,leader
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,Experience scaling PMM at a developer or infrastructure company,experience,none,,,leader
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,"Track record at technical infrastructure company (databases, observability, AI/ML, dev tools)",domain_knowledge,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,Translate deeply technical concepts into developer and executive narratives,content,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,Bias toward shipping and operational instincts to run structured launch process,execution,process,,,builder
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,Fluency in competitive analysis and teaching reps to position against competitors,domain_knowledge,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,Experience marketing to multiple buyer profiles including technical practitioners and economic buyers,domain_knowledge,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,qualification,Experience at infrastructure/dev-tools company in Series B to D stage,experience,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,nice_to_have,Past experience marketing to AI/ML practitioners or ML platform buyers,domain_knowledge,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,nice_to_have,Background as former product manager or technical practitioner,experience,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,nice_to_have,Experience working closely with a founder-led narrative,experience,none,,,none
+fireworks_ai_head_of_product_marketing.md,Fireworks AI,Product Marketing,nice_to_have,Familiarity with open source go-to-market motions,domain_knowledge,none,,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,"Build and lead the CS function for onboarding, retention, and growth",team_leadership,hiring_people,,retention,both
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Own end-to-end post-sale customer journey from onboarding through renewal and expansion,strategy,process,,expansion,leader
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,"Define CS strategy including onboarding, adoption, health scoring, renewals, and expansion/upsell",strategy,document,,adoption;expansion,leader
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Own retention and NRR targets,execution,none,,retention;NRR,leader
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Identify and act on churn risk early,execution,process,,churn,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Design and implement scalable onboarding programs for fast time to value,ops_systems,process,,,builder
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Partner with Sales on renewals and expansion opportunities,cross_functional,relationship,,expansion,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Partner with Product on the customer feedback loop,cross_functional,process,,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Establish customer health metrics and QBR cadences,ops_systems,process,,,builder
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Build playbooks for SMB through enterprise account segments,ops_systems,document,,,builder
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Serve as executive sponsor for key strategic accounts,execution,relationship,,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,"Report CS performance (retention, NRR, CSAT/NPS, adoption) to company leadership",analytics,recurring_report,,retention;NRR;CSAT;NPS;adoption,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,responsibility,Champion voice of the customer to influence roadmap and GTM decisions,cross_functional,relationship,,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,"7+ years in CS, Account Management, or customer-facing role at B2B SaaS",experience,none,,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,2+ years in a leadership role,experience,none,,,leader
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,Track record owning retention/NRR targets,experience,none,,retention;NRR,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,Built repeatable CS processes from the ground up,experience,none,,,builder
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,Experience with mid-market and enterprise customers including executive stakeholders,experience,none,,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,"Strong analytics: define and track NRR, churn, CSAT/NPS, adoption",analytics,none,,NRR;churn;CSAT;NPS;adoption,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,Excellent communication; presenting to internal leadership and customer executives,cross_functional,none,,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,Builder's mindset creating structure and process in a growing organization,ops_systems,none,,,builder
+golinks_head_of_customer_success.md,GoLinks,Customer Success,qualification,Experience with CS/CRM tooling,ops_systems,none,Gainsight;Salesforce;HubSpot,,none
+golinks_head_of_customer_success.md,GoLinks,Customer Success,nice_to_have,"Experience in enterprise IT, knowledge management, or workplace productivity SaaS",domain_knowledge,none,,,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Bridge marketing output and sales needs to turn activity into qualified pipeline,cross_functional,process,,pipeline,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,"Own demand gen campaigns from concept to launch across email, paid, and webinars",execution,campaign,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Partner with content and design on campaign creative,cross_functional,campaign,,,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Project manage every campaign so nothing slips,execution,process,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Report on campaign performance and adjust based on results,analytics,recurring_report,,,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,"Plan and execute full event calendar: keynotes, sponsorships, booths, gifting, follow-up campaigns",execution,campaign,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Run Klue's own events,execution,campaign,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Build community and create partnership programs,execution,relationship,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,"Own SDR Manager relationship and set SDR strategy, segments, talk tracks, SPIFFs, budget",team_leadership,document,,,leader
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,"Partner on SDR hiring, coaching, and performance",team_leadership,hiring_people,,,leader
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Review SDR pipeline results and adjust strategy,analytics,analysis,,pipeline,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,"Lead marketing ops day-to-day, prioritizing workload against demand gen calendar",team_leadership,process,,,leader
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Build systems and processes to keep SDR workflows efficient,ops_systems,system_build,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Partner with RevOps on larger systems projects,cross_functional,system_build,,,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Develop AI workflows that change how demand gen operates,ops_systems,system_build,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Increase qualified sales opportunities month over month,execution,none,,pipeline,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Drive measurable deal closures attributed to marketing initiatives,analytics,none,,pipeline,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Achieve and exceed ROI targets for marketing campaigns and channels,analytics,none,,ROI,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,Develop team skills and improve team satisfaction and performance,team_leadership,none,,,leader
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,responsibility,"Deliver events measured by lead generation, engagement, and revenue contribution",execution,campaign,,,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,qualification,Experience running multi-channel B2B SaaS demand gen campaigns end to end,experience,none,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,qualification,"Experience coordinating with sales/SDR teams on targeting, messaging, and talk tracks",experience,none,,,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,qualification,Experience planning and running in-person and virtual events,experience,none,,,none
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,qualification,Comfortable operating with lean team and limited budget via better processes,execution,none,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,qualification,Some experience managing or closely overseeing another person's work,experience,none,,,leader
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,nice_to_have,Experience managing an SDR manager or sales-adjacent function directly,experience,none,,,leader
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,nice_to_have,Experience building community or creator partnership programs,experience,none,,,builder
+klue_director_demand_generation.md,Klue,Digital / Demand Gen,nice_to_have,Operated through a budget cut or team downsizing,experience,none,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,"Set product marketing strategy for full product portfolio: positioning, messaging, GTM narrative",strategy,document,,,leader
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,Track market 6-12 months out to shape category conversation proactively,analytics,analysis,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,"Manage the team that executes content, campaigns, and enablement",team_leadership,none,,,leader
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,Build and maintain forward-looking view of market and competitive landscape,analytics,analysis,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,Convert market view into proactive point of view for how company shows up,strategy,document,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,Lead major product launches end-to-end with Product leadership and own outcome,execution,campaign,,,leader
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,"Serve as trusted product marketing voice to Sales leadership, changing how deals run",cross_functional,relationship,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,Own competitive intelligence and set differentiation standard,analytics,analysis,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,"Partner with Demand Gen, Growth, and Content on campaigns, collateral, and enablement",cross_functional,campaign,,pipeline;adoption,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,Represent PMM with executive leadership on category strategy and positioning,strategy,relationship,,,leader
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,responsibility,Partner with Product so market and customer insight shapes the roadmap,cross_functional,relationship,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,"8-12+ years in product marketing at B2B SaaS, data, or intelligence company",experience,none,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,Meaningful time setting portfolio-level positioning and GTM strategy,experience,none,,,leader
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,"Experience managing a team: hiring, coaching, setting operating standards",team_leadership,hiring_people,,,leader
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,Ability to lead launches from strategy through execution and post-launch measurement,execution,campaign,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,Track record earning credibility with Sales leadership,cross_functional,relationship,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,Synthesize scattered market signal into differentiated point of view ahead of market,analytics,none,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,Translate complex data-driven or technical products into narratives for non-technical senior buyers,content,none,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,"Strategic, big-picture orientation energized by setting direction",strategy,none,,,leader
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,Comfortable with significant autonomy in fast-paced environment,execution,none,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,qualification,Excellent communication with experience presenting to executive stakeholders,cross_functional,none,,,none
+morning_consult_director_product_marketing.md,Morning Consult,Product Marketing,nice_to_have,"Depth in market research, data-as-a-service, or consumer/data intelligence GTM",domain_knowledge,none,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,"Own self-serve revenue growth from first touch to signup, first credit purchase, and usage expansion",strategy,system_build,,conversion_rate;expansion,both
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,"Run self-serve growth engine as player/coach, hands-on in year one",execution,system_build,,,both
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,"Plan and buy paid media: search, social, newsletter, podcast/creator, audio, OOH, events",execution,campaign,,,builder
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,Own $5M+ paid budget and the agency/vendor bench,execution,relationship,,,leader
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,"Own AEO/SEO roadmap for openrouter.ai, including answer-engine visibility",strategy,document,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,Run conversion optimization on key pages and flows on standing experimentation cadence,analytics,process,,conversion_rate,builder
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,Partner with product and engineering on conversion experiments,cross_functional,relationship,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,"Own paid measurement: attribution design, incrementality and holdout testing, channel reporting",analytics,recurring_report,,,builder
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,Run quarterly forecasting and planning cycle for paid budget,analytics,process,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,Support enterprise demand gen with MQL/MQA programs and pipeline measurement,execution,campaign,,MQL;pipeline,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,responsibility,Build the growth team around the engine as it proves out,team_leadership,hiring_people,,,leader
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,8+ years in growth or performance marketing,experience,none,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,"Meaningful time at developer tools, API-first, or technical B2B SaaS company",domain_knowledge,none,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,Directly accountable for self-serve or usage-based revenue as primary metric,experience,none,,conversion_rate,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,Owned $5M+ annual multi-channel paid budget or scaled program into that range,experience,none,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,"Can explain CAC, payback math, and channels killed",analytics,none,,CAC;payback,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,Hands-on with product analytics stack and attribution design,analytics,none,PostHog;GA4;Hex,,builder
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,Designed at least one incrementality or holdout test yourself,analytics,analysis,,,builder
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,Owned or directed SEO for a technical product,experience,none,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,Working point of view on AEO and ChatGPT-driven search,domain_knowledge,none,ChatGPT,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,Built and ran CRO/experimentation programs with statistical discipline,analytics,process,,,builder
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,qualification,"Player/coach: execute solo and build function via agencies, contractors, hires",team_leadership,hiring_people,,,both
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,nice_to_have,Marketed to AI engineers or built against an LLM API,domain_knowledge,none,OpenRouter,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,nice_to_have,"Brand campaign experience (OOH, audio, sponsorships) measured with brand-lift or geo holdouts",experience,none,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,nice_to_have,Demand gen or ABM experience feeding enterprise sales motion,experience,none,,,none
+openrouter_director_growth_marketing.md,OpenRouter,Digital / Demand Gen,nice_to_have,Time in consumption-pricing business judged on usage over lead volume,experience,none,Twilio;Datadog;Vercel,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,"Lead, grow, and scale the enterprise Customer Success team",team_leadership,hiring_people,,,leader
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,"Own enterprise book with multi-branch, multi-region accounts and complex rollouts",execution,relationship,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,"Own team performance, operational excellence, and success strategy execution",team_leadership,process,,retention;expansion,leader
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,"Lead, mentor, and develop a team of 8 Enterprise CSMs",team_leadership,none,,,leader
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,Own gross and net retention for the enterprise segment,execution,none,,GRR;NRR,leader
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,"Drive multi-stakeholder adoption, expansion, and renewal",execution,relationship,,adoption;expansion,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,"Build enterprise engagement model: EBRs, mutual success plans, relationship maps, rollout plans",ops_systems,process,,,builder
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,Partner with CSMs to identify at-risk customers and deploy proactive success plans,execution,document,,,both
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,Stay directly involved in the highest-value accounts,execution,relationship,,,both
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,Serve as executive sponsor and escalation point with C-suite and VP relationships,execution,relationship,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,Ensure team delivers measurable outcomes aligned to customer and company goals,team_leadership,none,,,leader
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,"Partner with Sales, Product, and Operations to improve CX and shape enterprise roadmap",cross_functional,relationship,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,responsibility,Champion customer insights to inform strategic decisions and prioritization,cross_functional,analysis,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,qualification,"4+ years people leadership in CS, managing a team carrying retention or revenue number",experience,none,,retention,leader
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,qualification,8+ years in Customer Success with enterprise multi-stakeholder account experience,experience,none,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,qualification,Experience owning executive relationships with senior buyers at large organizations,experience,none,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,qualification,"Strong analytics with BI dashboards, customer health metrics, data-driven decisions",analytics,none,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,qualification,"Produce clear documentation, analysis, internal communication, and polished presentations",content,document,,,none
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,qualification,"Direct, effective coaching",team_leadership,none,,,leader
+permitflow_senior_manager_director_customer_success_enterprise.md,PermitFlow,Customer Success,qualification,Startup or high-growth experience with builder's mindset and bias toward action,experience,none,,,builder
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Own regional operating plan translating CS priorities into team goals and execution rhythms,strategy,document,,,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Lead team performance on GRR, renewal attainment, portfolio health, and CSQLs",team_leadership,none,,GRR,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Review regional coverage and portfolio performance and recommend actions to VP/AVP,analytics,analysis,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Maintain view of account health, renewal readiness, sentiment, adoption, and expansion readiness",analytics,recurring_report,,adoption;expansion,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Hire, onboard, coach, and develop a high-performing team; manage performance",team_leadership,hiring_people,,,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Coach CSMs toward proactive adoption, value realization, risk mitigation, executive engagement",team_leadership,none,,adoption,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Establish coaching and inspection cadence: one-to-ones, portfolio reviews, calibration, development",team_leadership,process,,,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Inspect quality and execution of customer success plans,execution,document,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Coach teams to use telemetry, health indicators, and product usage to find adoption gaps",analytics,analysis,,adoption,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Drive adoption of Semperis use cases: DSP posture reviews, ADFR recovery testing, DRET/Lightning workflows",domain_knowledge,process,DSP;ADFR;DRET;Lightning,adoption,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Ensure QBRs/EBRs connect technical progress to customer security and business priorities,execution,document,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Partner with Technical Delivery to separate deployment from adoption and value realization,cross_functional,process,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Inspect red/yellow and at-risk renewal accounts with documented owners and mitigation plans,execution,document,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Coach teams to surface risk early and coordinate save strategies cross-functionally,team_leadership,process,,,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,Partner with Sales and Renewals on renewal readiness and expansion; ground CSQLs in customer needs,cross_functional,relationship,,expansion,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Use Salesforce, TaskRay, and CS dashboards to maintain accurate account and renewal data",ops_systems,none,Salesforce;TaskRay,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Partner with CS Operations to improve visibility, data quality, playbooks, and repeatable practices",ops_systems,process,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,responsibility,"Represent regional CS in operating, product, and GTM forums with customer feedback",cross_functional,relationship,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,"3+ years leading post-sale teams in B2B SaaS, cybersecurity, or infrastructure software",experience,none,,,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,"Track record improving retention, renewal readiness, adoption, health, and value realization",experience,none,,retention;adoption,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,Experience coaching teams managing complex enterprise multi-stakeholder programs,experience,none,,,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,"Cybersecurity experience and credibility with CISOs, CIOs, IAM leaders, and architects",domain_knowledge,relationship,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,"Explain identity-security concepts; familiarity with Active Directory, Entra ID, incident response",domain_knowledge,none,Active Directory;Entra ID,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,"Skill in customer-risk identification, escalation leadership, and renewal planning",execution,none,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,"Strong people leadership: hiring, performance management, coaching, team culture",team_leadership,hiring_people,,,leader
+semperis_director_customer_success_west.md,Semperis,Customer Success,qualification,"Excellent communication, executive presence, and cross-team influence in distributed org",cross_functional,none,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,nice_to_have,"Experience in identity security, Active Directory/Entra ID, cyber recovery, or enterprise infrastructure",domain_knowledge,none,Active Directory;Entra ID,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,nice_to_have,"Familiarity with GRR, NRR, CSQLs, success plans, QBRs/EBRs, health scoring, renewal forecasting",domain_knowledge,none,,GRR;NRR;forecast_accuracy,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,nice_to_have,"Cybersecurity or CS certifications such as CISSP, CISM, CCSP",experience,none,,,none
+semperis_director_customer_success_west.md,Semperis,Customer Success,nice_to_have,"Prior experience in professional services, solutions engineering, security engineering, or incident response",experience,none,,,none
