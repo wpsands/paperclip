@@ -1,0 +1,43 @@
+theme_id,theme,category,deliverable_type,example_requirement
+revops_T01,Own AI roadmap for revenue and marketing operations,strategy,document,Own the AI roadmap for revenue across the customer lifecycle
+revops_T02,Build AI agents and automations for GTM workflows,ops_systems,system_build,"Apply AI hands-on to prospecting, call prep, deal review, onboarding, renewals and expansion workflows"
+revops_T03,"Build, hire and lead the RevOps team",team_leadership,hiring_people,"Build, run and grow a RevOps team spanning GTM Engineering, Program Management, Enablement and Analytics"
+revops_T04,Lead hands-on as a player-coach,team_leadership,hiring_people,"Lead GTM Engineering as player-coach, developing a small team and automating before adding headcount"
+revops_T05,Build RevOps function from scratch and set its vision,strategy,system_build,Build revenue operations function from the ground up reporting to CRO
+revops_T06,Lead annual GTM planning and publish plan with Finance,strategy,document,"Deep GTM planning experience: targets, territories, capacity, forecasting and pipeline management"
+revops_T07,"Build capacity, quota and target-setting models",analytics,analysis,"Lead capacity planning, quota setting, forecasting and pipeline management with Sales and CS leaders"
+revops_T08,"Design territories, segmentation and account assignment",ops_systems,analysis,"Partner with Sales and CS leadership on targets, territory and segment design"
+revops_T09,Design sales compensation and commissions,ops_systems,document,Design sales compensation plans
+revops_T10,Own the forecast process and forecast reviews,analytics,recurring_report,Own the forecast process and operating truth behind the CRO's board forecast
+revops_T11,Inspect pipeline and deals to surface risk early,analytics,analysis,"Drive pipeline, deal, conversion, expansion and renewal inspection"
+revops_T12,"Run GTM operating cadence, business reviews and QBRs",ops_systems,process,Set the revenue org operating rhythm and cadences without excess meetings
+revops_T13,Own CRM and GTM tech stack,ops_systems,system_build,"Own CRM and GTM stack, data model and integrations for one trusted view of the business"
+revops_T14,Build trusted GTM data foundation and source of truth,ops_systems,system_build,"Maintain reliable data, reporting, routing, attribution, pipeline processes and integrations"
+revops_T15,Own executive and board reporting on revenue KPIs,analytics,recurring_report,"Lead analytics and reporting on funnel health, conversion, retention, expansion and rep productivity"
+revops_T16,Analyze funnel conversion and rep productivity,analytics,analysis,"Analyze funnel conversion, rep productivity, ramp time, and segment performance"
+revops_T17,"Set pipeline standards, hygiene and deal desk operations",ops_systems,process,"Establish pipeline standards, stage definitions, and deal desk operations protecting pricing and margins"
+revops_T18,Run partner and channel operations and attribution,ops_systems,process,Partner on route-to-market and channel/partner coverage strategy
+revops_T19,"Own lifecycle stages, lead scoring and routing",ops_systems,process,"Own lifecycle stages, scoring, and MQL/SQL definitions"
+revops_T20,Build marketing attribution and campaign tracking,analytics,none,Build lifecycle-stage funnel reporting and recommend spend shifts to leadership
+revops_T21,"Own data consent, enrichment and deduplication",ops_systems,process,"Own global consent (GDPR, CCPA, CAN-SPAM) with Legal"
+revops_T22,Design rep and partner onboarding and enablement,execution,process,"Design onboarding, training and certification that ramp new reps fast and drive adoption"
+revops_T23,"Translate field needs into requirements, backlog and playbooks",ops_systems,document,"Translate business problems into requirements, roadmap priorities, and scalable solutions"
+revops_T24,Set GTM systems engineering standards as Engineering counterpart,cross_functional,relationship,Serve as technical product leader for GTM systems and Engineering's primary GTM counterpart
+revops_T25,"Own usage, metering, billing and consumption planning",ops_systems,none,Design process to forecast GPU demand aligned with GPU management team
+revops_T26,Partner with CRO and influence senior executives,cross_functional,relationship,Report to and partner with the CRO to set revenue strategy and build
+revops_T27,Drive cross-functional execution and program management,cross_functional,process,Translate executive priorities into coordinated cross-functional execution
+revops_T28,Turn revenue data into clear priorities and action,analytics,analysis,Deeply analytical and able to explain a complicated forecast in plain language
+revops_T29,SQL and BI skills,analytics,none,SQL or similar data skills
+revops_T30,"Deep Salesforce, CRM and CPQ expertise",ops_systems,none,Strong command of CRM and GTM systems and the data behind them
+revops_T31,Fluency with modern AI and automation tools,ops_systems,none,"Familiarity with modern GTM, automation, analytics and AI tools"
+revops_T32,"10+ years RevOps, Sales or Business Ops experience",experience,none,"10+ years in RevOps, Sales Ops, GTM Strategy or related, with meaningful leadership time"
+revops_T33,"6-9+ years RevOps, partnerships or GTM planning experience",experience,none,"6+ years in RevOps, Sales Ops, BizOps, Strategy & Ops, SaaS operations or consulting"
+revops_T34,Scaled GTM through high growth or hypergrowth,experience,none,Experience in a high-growth technology company
+revops_T35,"AI, developer tools or technical company experience",experience,none,"Experience at AI/ML infrastructure, developer tools, or API-first company"
+revops_T36,"Vertical domain experience (SMB, fintech, legal, healthcare)",domain_knowledge,none,"Experience selling to SMBs, the trades or home services"
+revops_T37,Strong B2B SaaS GTM and sales methodology knowledge,domain_knowledge,none,"Strong understanding of B2B SaaS GTM motions: pipeline, forecasting, funnel, lifecycle and revenue metrics"
+revops_T38,Cloud marketplace and co-sell partner experience,domain_knowledge,none,"Experience with co-sell, channel, alliance, or marketplace motions"
+revops_T39,Production software engineering experience,experience,none,Professional software engineering experience writing and maintaining production code without AI tools
+revops_T40,Quantitative degree or finance/consulting background,experience,none,"BA/BS in engineering, accounting, finance, economics or quantitative field preferred"
+revops_T41,"Bias to ship and own outcomes, close to field",execution,none,Ride along on discovery calls and onboarding sessions to stay close to the field
+revops_T42,Experience leading GTM Engineering or New Business operations,experience,none,"Experience building and leading GTM Engineering, RevOps, Sales Ops, or Business Systems"

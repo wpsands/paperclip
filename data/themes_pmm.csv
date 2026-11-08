@@ -1,0 +1,46 @@
+theme_id,theme,category,deliverable_type,example_requirement
+pmm_T01,Own product positioning and messaging framework,content,document,"Own product and solution positioning across VDC, identity verification, eSign/eNotary and agentic authorization"
+pmm_T02,Define company and category narrative and point of view,strategy,document,"Serve as chief storyteller, positioning strategist, and launch lead for everything built"
+pmm_T03,Translate technical capabilities into buyer value stories,content,document,"Translate capabilities into value propositions with messaging, adoption materials, sales training per release"
+pmm_T04,"Build sales toolkit: decks, battlecards, one-pagers, objection guides",content,document,"Build and maintain sales toolkit: decks, solution briefs, discovery guides, ROI tools, objection handling, demo narratives"
+pmm_T05,Run sales enablement and field readiness programs,content,document,"Run ongoing enablement for Sales, Solutions Engineering, Customer Success and partners"
+pmm_T06,Lead product launches end-to-end with tiering and readiness,execution,campaign,"Run the launch process from tiering and readiness through announcement, enablement and post-launch measurement"
+pmm_T07,Define and execute go-to-market strategy for products,strategy,campaign,"Define and execute GTM strategy: segments, positioning, enablement, channel plans, launch communications"
+pmm_T08,Lead competitive intelligence and differentiation program,analytics,analysis,"Lead competitive intelligence across identity, credentials, eSignature and fraud vendors, maintaining battlecards"
+pmm_T09,Run win/loss and customer research programs,analytics,analysis,Lead win/loss analysis and customer interviews
+pmm_T10,"Define ICP, segmentation, and buyer personas",domain_knowledge,document,Conduct persona and buying-committee research
+pmm_T11,"Own pricing, packaging, and monetization strategy",strategy,analysis,"Partner with Product on pricing, packaging and roadmap priorities"
+pmm_T12,Bring market and customer insight into product roadmap,cross_functional,relationship,"Serve as voice of market in product planning, bringing research and sizing to roadmap"
+pmm_T13,Run feedback loops from field to Product,cross_functional,relationship,"Maintain feedback loop between Sales, CS, Product; produce quarterly product input reports"
+pmm_T14,Support strategic deals and partner with sales leadership,cross_functional,relationship,Be the product voice in the room on most strategic deals
+pmm_T15,Spend time with customers and buyers on live calls,execution,relationship,"Give compliance, HR, and legal leaders clear answers to toughest questions"
+pmm_T16,Partner with Demand Gen and Comms on campaigns and content,cross_functional,campaign,Shape use-case plays with Revenue Marketing and Sales
+pmm_T17,Lead analyst relations and external thought leadership,cross_functional,relationship,Supply product and roadmap content for analyst briefings with the Director of Communications
+pmm_T18,"Create proof content: case studies, white papers, customer stories",content,document,"Develop thought leadership content: white papers, market sizing analyses, industry benchmarks"
+pmm_T19,"Build product demos, prototypes, and demo environments",content,system_build,Demo vibecode prototypes to show buyers where the platform is going
+pmm_T20,"Drive post-launch adoption, cross-sell, and expansion",analytics,analysis,Identify cross-sell and upsell opportunities from usage data and segments; recommend packaging
+pmm_T21,Define and track PMM KPIs and impact metrics,analytics,recurring_report,"Define and track PMM KPIs: feature adoption, enablement utilization, message resonance"
+pmm_T22,Build AI-powered workflows to automate PMM work,ops_systems,system_build,Build AI-driven architecture to automate reporting workflows
+pmm_T23,Use AI and martech tools daily to scale output,ops_systems,none,"Hands-on use of AI tools to accelerate research: automated monitoring, LLM analysis, data pipelines"
+pmm_T24,"Hire, lead, and develop the product marketing team",team_leadership,hiring_people,Manage and develop the Partner & Customer Marketing Manager and grow the PMM team
+pmm_T25,Establish PMM operating rhythms and quality standards,ops_systems,process,"Establish operating rhythms for planning, launches, WIP reviews, customer insight, CI, and performance"
+pmm_T26,Build market intelligence monitoring system and reports,analytics,analysis,"Track regulatory developments (CIP/KYC, digital identity, eNotary) and translate into market opportunities"
+pmm_T27,"Drive partner, alliance, and product-led growth motions",experience,none,Experience with developer- or platform-led motions alongside enterprise sales
+pmm_T28,Align cross-functional stakeholders and influence without authority,cross_functional,relationship,"Proven ability to influence Product, Sales, Finance, Marketing without direct authority"
+pmm_T29,Senior B2B product marketing experience (5-12+ years),experience,none,"10+ years B2B product marketing at SaaS, fintech, identity, security or infrastructure companies"
+pmm_T30,Experience leading and managing product marketers,team_leadership,none,3+ years leading product marketing teams and end-to-end launches
+pmm_T31,Track record of launches that moved pipeline and win rates,experience,none,Record creating positioning for a new category with launches that improved pipeline and win rates
+pmm_T32,Startup / high-growth experience and comfort with ambiguity,experience,none,"Startup experience at similar stage, wearing multiple hats with little structure"
+pmm_T33,"Excellent writing, storytelling, and executive communication",content,none,"Excellent writing, storytelling and presentation skills credible with executives, customers and analysts"
+pmm_T34,Industry domain expertise in target vertical,domain_knowledge,none,"Experience marketing technical or API-driven products to regulated enterprise buyers, ideally financial institutions"
+pmm_T35,Experience marketing technical or AI-driven products,domain_knowledge,none,Experience marketing AI or agentic products and related trust and authorization questions
+pmm_T36,Built or scaled a PMM function from scratch,experience,none,Experience building or scaling a competitive intelligence function from scratch
+pmm_T37,"Analytical, evidence-driven, customer-curious mindset",analytics,analysis,"Strong analytics: build financial models, analyze usage data, synthesize signals into recommendations"
+pmm_T38,LATAM multi-market and language experience,strategy,none,"Own product marketing across Mexico, Brazil, and Colombia"
+pmm_T39,Pricing and packaging expertise and track record,experience,none,"Track record deploying pricing models that improved win rates, ACV, or NRR in B2B"
+pmm_T40,"Set PMM strategy, portfolio priorities, and plan",strategy,document,"Own PMM strategy, portfolio narrative, positioning, messaging, launch priorities, and commercial plan for Offensive Security"
+pmm_T41,Experience setting multi-product portfolio positioning,experience,none,"Success defining PMM strategy across multiple products, use cases, buying centers, segments"
+pmm_T42,Strategic judgment paired with hands-on execution,experience,none,Strategic judgment paired with hands-on execution
+pmm_T43,MBA or advanced degree,experience,none,"MBA or advanced degree in Marketing, Business, or technical field"
+pmm_T44,Deep full-stack PMM craft expertise,domain_knowledge,none,"Expertise in product launches, competitive positioning, and sales enablement"
+pmm_T45,Drive win rates and pipeline conversion outcomes,execution,none,Drive win rates against priority competitors up quarter over quarter
